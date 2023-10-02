@@ -5,6 +5,13 @@
 Designed and developed a user-friendly music player for Android devices, demonstrating proficiency in mobile application development. 
 </br>
 
+## 🛠 Tech Used
+- Android studio
+- Java
+- XML
+- Mediaplayer library
+- Glide dependency
+
 ## If you liked the project don't forget to star 🌟 and fork 🍽 the project.
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![ForTheBadge ANDROID](https://forthebadge.com/images/badges/built-for-android.svg)
